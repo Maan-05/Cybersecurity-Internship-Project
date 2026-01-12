@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 2
+    },
+    "auditFilename": "logs/audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1768124816836,
+            "name": "C:\\Users\\DELL\\Downloads\\juice-shop-19.1.1_node24_win32_x64\\juice-shop_19.1.1\\logs\\access.log.2026-01-11",
+            "hash": "572c2a4143125c5d052cdf298578aba7"
+        },
+        {
+            "date": 1768245169428,
+            "name": "C:\\Users\\DELL\\Downloads\\juice-shop-19.1.1_node24_win32_x64\\juice-shop_19.1.1\\logs\\access.log.2026-01-12",
+            "hash": "813249f2eeca625d2ac2aecf087ca827"
+        }
+    ]
+}
